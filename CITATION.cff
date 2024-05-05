@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you would like to use this software, please cite the following book."
+abbreviation: "ML_Praktikum"
+type: software
+authors:
+- family-names: "Nosek"
+  given-names: "Tijana"
+- family-names: "Brkljač"
+  given-names: "Branko"
+  website: "https://brkljac.github.io/"
+- family-names: "Despotović"
+  given-names: "Danica"
+- family-names: "Lončar-Turukalo"
+  given-names: "Tatjana"
+- family-names: "Sečujski"
+  given-names: "Milan"
+title: "Praktikum iz mašinskog ucenja, Fakultet tehničkih nauka, Univerzitet u Novom Sadu"
+version: 1.0
+date-released: "2020-07-28"
+url: "https://github.com/ftn-ktios/MUpraktikum"
+preferred-citation:
+  type: book
+  abbreviation: "ML_Praktikum"
+  authors:
+    - family-names: "Nosek"
+      given-names: "Tijana"
+    - family-names: "Brkljač"
+      given-names: "Branko"
+      website: "https://brkljac.github.io/"
+    - family-names: "Despotović"
+      given-names: "Danica"
+    - family-names: "Lončar-Turukalo"
+      given-names: "Tatjana"
+    - family-names: "Sečujski"
+      given-names: "Milan"
+  title: "Praktikum iz mašinskog ucenja, Fakultet tehničkih nauka, Univerzitet u Novom Sadu"
+  url: "https://github.com/ftn-ktios/MUpraktikum/blob/master/MU_praktikum.pdf"
+  repository-code: "https://github.com/ftn-ktios/MUpraktikum" 
+  version: 1.0
+  start: 1 # First page number
+  end: 122 # Last page number
+  year: 2020
+  medium: "print"
+  isbn: "978-86-499-0245-9"
+  publisher:
+    name: "Faculty of Technical Sciences, University of Novi Sad"
+    city: Novi Sad, Republic of Serbia
+  identifiers:
+    - type: CIP
+      value: "CIP: 004.85(075.6)(076)"
+      description: "The CIP number of the work."
